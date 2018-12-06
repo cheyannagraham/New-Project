@@ -9,7 +9,7 @@ It is bootstrapped with Jquery and BrowserSync
 3. Code!
 
 ## Browsersync
-To use browser sync
-1. npm install
+To use browser sync make sure it is installed on your machine.
+1. [https://www.browsersync.io/](Install Browsersync)
 2. run browser-sync start --config bs-config.js
 
